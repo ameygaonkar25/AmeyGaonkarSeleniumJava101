@@ -1,0 +1,16 @@
+lambdaTest platform Test ids
+
+Test on Chrome
+Scenario 1: testID=VTTZU-PAZUD-0KVOH-SNHEI
+Scenario 2: testID=FJGRL-PILT1-TKFYK-B9N9I
+Scenario 3: testID=JPZPL-BHZ7H-DEUFS-MXUUJ
+
+Test on Edge
+Scenario 1: testID=HTZOV-LFRSW-HGNAV-TUJAX
+Scenario 2: testID=RL4MJ-21MV1-HRBCW-3RF1R
+Scenario 3: testID=GDIHH-BIUEO-LAABE-HDS1Y
+
+Test on FireFox
+Scenario 1: testID=5D8IT-QPQWS-7KHON-O62MI
+Scenario 2: testID=NRLKZ-KP56H-18BBH-FSXCO
+Scenario 3: testID=HCRIF-HMDX3-XNEDU-BU62I
